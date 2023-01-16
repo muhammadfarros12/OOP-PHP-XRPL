@@ -1,30 +1,21 @@
 <?php
+class Robot{
+  public $suara;
+  public $berat;
 
-class StringMutator {
+  public function set_suara($suara){
+    $this -> suara = $suara;
+    return $this;
+  }
 
-    protected $word;
-
-    public function __construct($word) 
-    {
-        $this->word = $word;
-    }
-
-    public function bold() {
-        $this->word = '<b>' . $this->word . '</b>';
-        return $this;
-    }
-
-    public function italic() {
-        $this->word = '<i>' . $this->word . '</i>';
-        return $this;
-    }
-    
-    public function underscore() {
-        $this->word = '<u>' . $this->word . '</u>';
-        return $this;
-    }
-    
-    public function get() {
-        return $this->word;
-    }
+  public function set_berat($berat){
+    $this -> berat = $berat;
+    return $this;
+  }
 }
+
+$robot = new Robot();
+$robot -> set_suara('method chaining')->set_berat(20);
+
+echo $robot -> suara . ' - ' . $robot -> berat;
+echo PHP_EOL;
