@@ -1,4 +1,21 @@
-medium link
+medium materi mengenai keyword $this & self didalam PHP
 
-format
-(nama)[link_medium]
+[Abdurrazaq]()  
+[Ahmad Fathir]()  
+[Akmal Faiq Muhammad Ranyan]()  
+[Akmal Pratama Irsyad Nurdiana]()  
+[Damarazka Akhyari]()  
+[Fadhil Zaki]()  
+[Farrel Ahmad Ghazali]()  
+[Fihryal Faqiy]()  
+[Muhammad Nauval Syuja Kurniawan]()  
+[Maulana Ade Fathurrozaqi]()  
+[Maulana Nur Fawwaz]()  
+[Muhammad Fathir]()  
+[Muhammad Zaidan Firrizq]()  
+[Nawfal  Althaf  Budiman]()  
+[Rakha Sapta Fabian]()  
+[Thoriq Izzuddin Ramadhan]()  
+[Zirjy Zakwan Fayyadhiya]()  
+[Muhammad Maaz]()  
+
