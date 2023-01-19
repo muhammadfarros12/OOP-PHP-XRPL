@@ -10,3 +10,4 @@ Abdurrazaq = https://medium.com/@abangojaq/pengenalan-oop-object-oriented-progra
 
 Fadhil = https://medium.com/@fadhilzaki/pengenalan-oop-object-oriented-programming-pada-php-95e6d6f31832
 
+Altop = https://medium.com/@budimanaltaf687/pengenalan-oop-object-oriented-programming-a3b76503fa7a
