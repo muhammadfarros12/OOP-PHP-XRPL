@@ -1,6 +1,6 @@
 Materi mengenai konsep Statis didalam PHP
 
-[Abdurrazaq]()  
+[Abdurrazaq](https://medium.com/@abangojaq/visibility-oop-644e2ecdf2e2)  
 [Ahmad Fathir]()  
 [Akmal Faiq Muhammad Ranyan]()  
 [Akmal Pratama Irsyad Nurdiana]()  
