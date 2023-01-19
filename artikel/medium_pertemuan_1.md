@@ -15,3 +15,5 @@ faqiy = https://medium.com/@fihryalfaqiy/pengenalan-oop-f9937e87ebb1
 Farrel = https://medium.com/@idnfarrel/pengenalan-oop-2a48db1fe3de
 
 Althaff = https://medium.com/@budimanaltaf687/pengenalan-oop-object-oriented-programming-a3b76503fa7a
+
+Zaidan = https://medium.com/@firrizq/pengenalan-oop-2510989728ec
