@@ -19,3 +19,8 @@
 [Althaff](https://medium.com/@budimanaltaf687/pengenalan-oop-object-oriented-programming-a3b76503fa7a)
 
 [Zaidan](https://medium.com/@firrizq/pengenalan-oop-2510989728ec)
+
+[Maul](https://medium.com/@maulzzaqi/introduction-to-oop-object-oriented-programming-in-php-8fea3015e9e7)
+
+[Akmal Faiq](https://medium.com/@akmalranyan/php-object-oriented-programming-intro-9835172663a6)
+
