@@ -1,6 +1,7 @@
-Materi mengenai konsep Statis didalam PHP
 
-[Abdurrazaq]()  
+Materi mengenai konsep visibilitas didalam PHP  
+
+[Abdurrazaq](https://medium.com/@abangojaq/visibility-oop-644e2ecdf2e2)  
 [Ahmad Fathir](https://medium.com/@ahmadfathir0830/visibility-d16b634317e1)  
 [Akmal Faiq Muhammad Ranyan]()  
 [Akmal Pratama Irsyad Nurdiana]()  
