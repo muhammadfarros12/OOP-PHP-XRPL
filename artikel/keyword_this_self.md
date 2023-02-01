@@ -13,7 +13,7 @@ medium materi mengenai keyword $this & self didalam PHP
 [Maulana Nur Fawwaz]()  
 [Muhammad Fathir]()  
 [Muhammad Zaidan Firrizq]()  
-[Nawfal  Althaf  Budiman]()  
+[Nawfal  Althaf  Budiman](https://medium.com/@budimanaltaf687/konsep-this-dan-self-c0ec1ab44f11)  
 [Rakha Sapta Fabian]()  
 [Thoriq Izzuddin Ramadhan]()  
 [Zirjy Zakwan Fayyadhiya]()  
