@@ -1,5 +1,5 @@
 [Abdurrazaq]()  
-[Ahmad Fathir]()  
+[Ahmad Fathir](https://medium.com/@ahmadfathir0830/constant-d0bf83c111a0)  
 [Akmal Faiq Muhammad Ranyan]()  
 [Akmal Pratama Irsyad Nurdiana]()  
 [Damarazka Akhyari]()  
