@@ -11,7 +11,7 @@
 [Maulana Nur Fawwaz]()  
 [Muhammad Fathir]()  
 [Muhammad Zaidan Firrizq]()  
-[Nawfal  Althaf  Budiman]()  
+[Nawfal  Althaf  Budiman](https://medium.com/@budimanaltaf687/konsep-statis-dalam-php-d89f63894f90)  
 [Rakha Sapta Fabian]()  
 [Thoriq Izzuddin Ramadhan]()  
 [Zirjy Zakwan Fayyadhiya]()  
