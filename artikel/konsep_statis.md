@@ -12,7 +12,7 @@ medium materi mengenai konsep statis didalam PHP
 [Maulana Ade Fathurrozaqi]()  
 [Maulana Nur Fawwaz]()  
 [Muhammad Fathir]()  
-[Muhammad Zaidan Firrizq]()  
+[Muhammad Zaidan Firrizq](https://medium.com/@firrizq/oop-php-konsep-statis-bfd661c1011f)  
 [Nawfal  Althaf  Budiman]()  
 [Rakha Sapta Fabian]()  
 [Thoriq Izzuddin Ramadhan]()  
