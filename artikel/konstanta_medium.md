@@ -11,7 +11,7 @@
 [Maulana Nur Fawwaz]()  
 [Muhammad Fathir]()  
 [Muhammad Zaidan Firrizq]()  
-[Nawfal  Althaf  Budiman]()  
+[Nawfal  Althaf  Budiman](https://medium.com/@budimanaltaf687/apa-itu-konstanta-dalam-php-d10831870f1)  
 [Rakha Sapta Fabian]()  
 [Thoriq Izzuddin Ramadhan]()  
 [Zirjy Zakwan Fayyadhiya]()  
