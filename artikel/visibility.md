@@ -8,7 +8,7 @@ Materi mengenai konsep visibilitas didalam PHP
 [Damarazka Akhyari]()  
 [Fadhil Zaki]()  
 [Farrel Ahmad Ghazali]()  
-[Fihryal Faqiy]()  
+[Fihryal Faqiy](https://medium.com/@fihryalfaqiy/visibility-object-oriented-programming-5b5ddfccf177)  
 [Muhammad Nauval Syuja Kurniawan]()  
 [Maulana Ade Fathurrozaqi]()  
 [Maulana Nur Fawwaz]()  
