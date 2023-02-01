@@ -1,4 +1,4 @@
-medium materi mengenai konsep statis didalam PHP
+medium materi mengenai penggunaan Return Value didalam PHP
 
 [Abdurrazaq]()  
 [Ahmad Fathir]()  
