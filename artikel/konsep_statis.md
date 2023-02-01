@@ -1,7 +1,7 @@
 medium materi mengenai keyword $this & self didalam PHP
 
 [Abdurrazaq]()  
-[Ahmad Fathir]()  
+[Ahmad Fathir](https://medium.com/@ahmadfathir0830/static-concept-87aaf8b177c3)  
 [Akmal Faiq Muhammad Ranyan]()  
 [Akmal Pratama Irsyad Nurdiana]()  
 [Damarazka Akhyari]()  
