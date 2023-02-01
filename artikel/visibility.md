@@ -9,7 +9,7 @@ Materi mengenai konsep visibilitas didalam PHP
 [Fadhil Zaki]()  
 [Farrel Ahmad Ghazali]()  
 [Fihryal Faqiy]()  
-[Muhammad Nauval Syuja Kurniawan]()  
+[Muhammad Nauval Syuja Kurniawan](https://medium.com/@m.naufal.s.k/visibility-pada-php-a8c152551221)  
 [Maulana Ade Fathurrozaqi]()  
 [Maulana Nur Fawwaz]()  
 [Muhammad Fathir]()  
