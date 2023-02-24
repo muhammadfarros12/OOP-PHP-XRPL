@@ -15,7 +15,7 @@ Materi mengenai konsep visibilitas didalam PHP
 [Muhammad Fathir]()  
 [Muhammad Zaidan Firrizq]()  
 [Nawfal  Althaf  Budiman]()  
-[Rakha Sapta Fabian]()  
+[Rakha Sapta Fabian](https://medium.com/@rakhasaptafabian/visibility-in-oop-b61f0a79252e)  
 [Thoriq Izzuddin Ramadhan]()  
 [Zirjy Zakwan Fayyadhiya]()  
 [Muhammad Maaz]()  
