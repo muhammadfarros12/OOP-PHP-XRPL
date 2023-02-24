@@ -24,3 +24,4 @@
 
 [Akmal Faiq](https://medium.com/@akmalranyan/php-object-oriented-programming-intro-9835172663a6)
 
+[Rakha S. Fabian](https://medium.com/@rakhasaptafabian/what-in-the-world-is-oop-7aa413bb1fe)
